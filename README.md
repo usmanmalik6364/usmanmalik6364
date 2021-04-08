@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @usmanmalik6364
-- 👀 I’m interested in developing scalabale and fun software application
+- 👀 I’m interested in developing scalabale and fun software applications
 - 🌱 I’m currently learning data structures and algorithms in C#
 - 💞️ I’m looking to collaborate on open source projects in C#
 - 📫 How to reach me usmanmalik9797@gmail.com
